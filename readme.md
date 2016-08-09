@@ -1,4 +1,4 @@
-## Mini Site Readme
+## Mini Site Functionality Plugin Readme
 
 This plugin provides functionality for the Mobile Growth Fellowship mini-sites template.  This includes all non-design related functionaliy including post types, taxonomies & shortcodes.
 
